@@ -1,6 +1,4 @@
 {
  "att": "false",
-"ntf": "true", 
-"title": "kkka", 
-"msg": "kpp"
+"ntf": "true"
 }
