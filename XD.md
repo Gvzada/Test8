@@ -1,4 +1,4 @@
 {
 "att": "false",
-"ntf": "true"
+"cmnatt": "true"
 }
