@@ -1,4 +1,8 @@
 {
  "att": "false",
-"ntf": "true"
+"ntf": "true",
+"on": "true,
+"title": "testt",
+"msg": "aaa",
+"link": "https://t.me/gvmdz"
 }
