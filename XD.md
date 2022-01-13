@@ -2,5 +2,5 @@
 "tt": "false",
 "toast": "kkk",
 "att": "false",
-"cmnatt": "false"
+"cmnatt": "true"
 }
