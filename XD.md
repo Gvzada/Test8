@@ -1,6 +1,5 @@
 {
-"title": "https://dupa 
-5.tyflex.is/restapi/",
+"title": "https://dupa5.tyflex.is/restapi/",
 "msg": "testzada",
 "url": "https://t.me/gvmdz",
 "status": "true", 
