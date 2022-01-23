@@ -1,6 +1,6 @@
 {
 "titlecmn": "Atualização do mod",
-"msgcmn": "https://dupa5.tyflex.is/restapi/",
+"msgcmn": "kj",
 "statuscmn": "false",
 "sendatt": "true",
 "test": "false",
