@@ -1,6 +1,6 @@
 {
 "titlecmn": "Atualização do mod",
-"msgcmn": "Uma nova atualização do mod será lançada em breve, fiquem de olho no meu canal do Telegram.",
+"msgcmn": "https://dupa5.tyflex.is/restapi/",
 "statuscmn": "false",
 "sendatt": "true",
 "test": "false",
