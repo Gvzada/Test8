@@ -1,7 +1,7 @@
 {
 "titlecmn": "Atualização do mod",
 "msgcmn": "kj",
-"statuscmn": "true",
+"statuscmn": "1",
 "sendatt": "false",
 "test": "false",
 "attcnpix1.52": "false",
