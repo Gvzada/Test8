@@ -4,5 +4,5 @@
 "statuscmnakplay2.0": "true",
 "titlecmnakplay2.0": "false",
 "attcnpix1.52": "false",
-"cmnattcnpix1.52":"true"
+"cmnattcnpix1.52": "true"
 }
