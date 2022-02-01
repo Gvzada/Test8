@@ -1,5 +1,6 @@
 {
 "titlecmnakplay2.0": "j",
+"sendatt": "true",
 "msgcmnakplay2.0": "kj",
 "statuscmnakplay2.0": "false",
 "attakplay2.0": "false",
