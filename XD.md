@@ -1,5 +1,5 @@
 {
-"titlecmnakplay2.0": "https://dupa5.tyflex.is/restapi/",
+"titlecmnakplay2.0": "jj",
 "sendatt": "true",
 "msgcmnakplay2.0": "kj",
 "statuscmnakplay2.0": "false",
