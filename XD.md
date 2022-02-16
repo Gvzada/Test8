@@ -6,7 +6,7 @@
 "attakplay2.0": "false",
 "titlecmndoramafnsubs5.1": "test1",
 "msgcmndoramafnsubs5.1": "test",
-"statuscmndoramafnsubs5.1": "true",
+"statuscmndoramafnsubs5.1": "false",
 "attdoramafnsubs5.1": "false",
 "attcnpix1.52": "false",
 "cmnattcnpix1.52": "true"
