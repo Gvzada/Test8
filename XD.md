@@ -13,5 +13,5 @@
 "titlecmnprojetocine1.1": "test1",
 "msgcmnprojetocine1.1": "test",
 "statuscmnprojetocine1.1": "false",
-"attprojetocine1.1": "false",
+"attprojetocine1.1": "false"
 }
