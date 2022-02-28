@@ -16,6 +16,6 @@
 "attprojetocine1.1": "false",
 "titlecmnakplay2.2": "Atualização do mod",
 "msgcmnakplay2.2": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
-"statuscmnakplay2.2": "true",
+"statuscmnakplay2.2": "false",
 "attakplay2.2": "false"
 }
