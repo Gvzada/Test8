@@ -21,5 +21,9 @@
 "titlecmncnpix1.56": "Atualização do mod",
 "msgcmncnpix1.56": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmncnpix1.56": "true",
-"attcnpix1.56": "false"
+"attcnpix1.56": "false",
+"titlecmnanimekey4.2": "Atualização do mod",
+"msgcmnanimekey4.2": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
+"statuscmnanimekey4.2": "true",
+"attanimekey4.2": "false" 
 }
