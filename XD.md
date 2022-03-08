@@ -13,7 +13,7 @@
 "titlecmnprojetocine1.1": "test1",
 "msgcmnprojetocine1.1": "test",
 "statuscmnprojetocine1.1": "false",
-"attprojetocine1.1": "true",
+"attprojetocine1.1": "false",
 "titlecmnakplay2.2": "Atualização do mod",
 "msgcmnakplay2.2": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnakplay2.2": "false",
