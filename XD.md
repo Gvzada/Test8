@@ -28,6 +28,6 @@
 "attanimekey4.2": "false",
 "titlecmnplayanimes3.3.2": "Atualização do mod",
 "msgcmnplayanines3.3.2": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
-"statuscmnplayanimes3.3.2": "true",
+"statuscmnplayanimes3.3.2": "false",
 "attplayanimes3.3.2": "false"
 }
