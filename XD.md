@@ -32,6 +32,6 @@
 "attplayanimes3.3.2": "false",
 "titlecmnvoon1.6": "Atualização do mod",
 "msgcmnvoon1.6": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
-"statuscmnvoon1.6": "true",
+"statuscmnvoon1.6": "false",
 "attvoon1.6": "false"
 }
